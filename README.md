@@ -59,7 +59,7 @@ Las gráficas generadas se guardarán automáticamente en la carpeta /output.
 * La violencia puede estar relacionada con una ligera tendencia al aumento de precios, posiblemente por la popularidad de géneros de acción.
 * La inflación influye de forma moderada en los precios finales, pero no de manera directa.
 * El análisis visual permite comprender mejor los patrones del mercado y apoyar decisiones de compra o diseño de estrategias comerciales.
-*Las visualizaciones ayudan a comprender mejor el comportamiento del mercado gamer.
+* Las visualizaciones ayudan a comprender mejor el comportamiento del mercado gamer.
 
 🧾 Autor
 Miguel Noriega
