@@ -1,0 +1,28 @@
+# Ignorar archivos temporales y del sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de entorno virtual (si llegas a usar una)
+env/
+venv/
+.venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Archivos de Excel temporales
+~$*.xls
+~$*.xlsx
+
+# Archivos personales o sensibles (solo si existieran)
+*.log
+*.bak
+
+# Evitar subir archivos muy pesados
+*.zip
+*.rar
+
+# Evitar subir las salidas de código (si no quieres incluirlas)
+output/*.csv
+output/*.xlsx
