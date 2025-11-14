@@ -5,7 +5,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-Style--Plots-purple)
 ![GitHub](https://img.shields.io/badge/Repo-GitHub-181717)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
+**Autor:** Miguel Noriega · **Año:** 2025
 Este proyecto analiza información de precios, calificaciones y tendencias en el mercado de videojuegos.
 El objetivo es explorar cómo variables como la violencia, el género, la plataforma y la inflación se relacionan con el precio final de los videojuegos.
 
