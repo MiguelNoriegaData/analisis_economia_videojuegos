@@ -1,9 +1,19 @@
 🎮 Proyecto de Análisis de Videojuegos
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Wrangling-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
+![Seaborn](https://img.shields.io/badge/Seaborn-Style--Plots-purple)
+![GitHub](https://img.shields.io/badge/Repo-GitHub-181717)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Este proyecto analiza información de precios, calificaciones y tendencias en el mercado de videojuegos.
 El objetivo es explorar cómo variables como la violencia, el género, la plataforma y la inflación se relacionan con el precio final de los videojuegos.
 
 ---
+> **Highlights**
+- Preprocesamiento y ajuste por inflación (EE.UU. y México)  
+- Proyecciones de precios 2026 y simulación de impuesto IEPS (8%)  
+- Visualizaciones: histograma, violin/boxplot, regplot y heatmap de correlaciones
 
 ## 📂 Estructura del Proyecto
 proyecto_analisis_videojuegos/
