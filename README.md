@@ -6,6 +6,9 @@
 ![GitHub](https://img.shields.io/badge/Repo-GitHub-181717)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 **Autor:** Miguel Noriega · **Año:** 2025
+**Descripción breve:**  
+Proyecto de portafolio que analiza la evolución de precios de videojuegos entre 2020 y 2026. Incluye scripts para limpieza y análisis (`analisis_inicial.py`), generación de visualizaciones profesionales (`analisis_visualizaciones.py`) y los datos en `data/`. Resultados gráficos guardados en `/output/`.
+
 Este proyecto analiza información de precios, calificaciones y tendencias en el mercado de videojuegos.
 El objetivo es explorar cómo variables como la violencia, el género, la plataforma y la inflación se relacionan con el precio final de los videojuegos.
 
