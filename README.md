@@ -43,6 +43,10 @@ proyecto_analisis_videojuegos/
 
 1. Distribución de precios (histograma mejorado)
 Permite ver cómo se concentran los precios y detectar si hay sesgos hacia rangos altos o bajos.
+## 📈 Distribución General de Precios (Mejorada)
+
+![Distribución de precios](output/distribucion_general_precios_mejorada.png)
+
 
 2. Boxplot de violencia vs precio
 Analiza si el nivel de violencia en un juego influye en su precio promedio.
